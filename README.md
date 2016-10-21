@@ -5,7 +5,7 @@ uses https://zipstorer.codeplex.com/
 
 /* *****************************************************************************
  *  VerCopy
- * A trivial utility used in the build of HRIS etc, the code-singing batch files use this tool to create
+ * A trivial utility used in the build of HRIS etc, the code-signing batch files use this tool to create
  * a copy of the exe named using it's internal version number, and also a zip file of the same for ease of emailing.
  *
  * usage VerCopy <path to exe>
